@@ -1,2 +1,2 @@
 # streamlit-basics-assignment
-streamlit project
+streamlit project helps in visualizing the data set
